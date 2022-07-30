@@ -1,0 +1,4 @@
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://jdev.com/hrms" xmlns:tns="http://jdev.com/hrms" elementFormDefault="qualified">
+    <element name="GetEmployeeRequest" type="tns:GetEmployeeRequest"></element>
+    <complexType name="GetEmployeeRequest"></complexType>
+</schema>
